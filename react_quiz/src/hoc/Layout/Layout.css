@@ -1,0 +1,14 @@
+.layout {
+  /* Занимает 100% высоты эрана */
+  height: 100vh;
+  display: flex;
+  /* Выстраивает все внутренние элементы в колонке */
+  flex-direction: column;
+}
+
+.layout main {
+  display: flex;
+  /* Выстраивает все внутренние элементы в колонке */
+  flex-direction: column;
+  flex-grow: 1;
+}

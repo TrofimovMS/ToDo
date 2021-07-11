@@ -1,0 +1,1 @@
+instal redux, react-redux, react-router-dom
